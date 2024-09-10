@@ -1,0 +1,15 @@
+C:\Users\haida\source\repos\C-Sharp-Practice-L1-Introduction\Programming_C#_101\Programming_C#_101\bin\Debug\net8.0\PLC#_C#_101.exe
+C:\Users\haida\source\repos\C-Sharp-Practice-L1-Introduction\Programming_C#_101\Programming_C#_101\bin\Debug\net8.0\PLC#_C#_101.deps.json
+C:\Users\haida\source\repos\C-Sharp-Practice-L1-Introduction\Programming_C#_101\Programming_C#_101\bin\Debug\net8.0\PLC#_C#_101.runtimeconfig.json
+C:\Users\haida\source\repos\C-Sharp-Practice-L1-Introduction\Programming_C#_101\Programming_C#_101\bin\Debug\net8.0\PLC#_C#_101.dll
+C:\Users\haida\source\repos\C-Sharp-Practice-L1-Introduction\Programming_C#_101\Programming_C#_101\bin\Debug\net8.0\PLC#_C#_101.pdb
+C:\Users\haida\source\repos\C-Sharp-Practice-L1-Introduction\Programming_C#_101\Programming_C#_101\obj\Debug\net8.0\PLC#_C#_101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haida\source\repos\C-Sharp-Practice-L1-Introduction\Programming_C#_101\Programming_C#_101\obj\Debug\net8.0\PLC#_C#_101.AssemblyInfoInputs.cache
+C:\Users\haida\source\repos\C-Sharp-Practice-L1-Introduction\Programming_C#_101\Programming_C#_101\obj\Debug\net8.0\PLC#_C#_101.AssemblyInfo.cs
+C:\Users\haida\source\repos\C-Sharp-Practice-L1-Introduction\Programming_C#_101\Programming_C#_101\obj\Debug\net8.0\PLC#_C#_101.csproj.CoreCompileInputs.cache
+C:\Users\haida\source\repos\C-Sharp-Practice-L1-Introduction\Programming_C#_101\Programming_C#_101\obj\Debug\net8.0\PLC#_C#_101.sourcelink.json
+C:\Users\haida\source\repos\C-Sharp-Practice-L1-Introduction\Programming_C#_101\Programming_C#_101\obj\Debug\net8.0\PLC#_C#_101.dll
+C:\Users\haida\source\repos\C-Sharp-Practice-L1-Introduction\Programming_C#_101\Programming_C#_101\obj\Debug\net8.0\refint\PLC#_C#_101.dll
+C:\Users\haida\source\repos\C-Sharp-Practice-L1-Introduction\Programming_C#_101\Programming_C#_101\obj\Debug\net8.0\PLC#_C#_101.pdb
+C:\Users\haida\source\repos\C-Sharp-Practice-L1-Introduction\Programming_C#_101\Programming_C#_101\obj\Debug\net8.0\PLC#_C#_101.genruntimeconfig.cache
+C:\Users\haida\source\repos\C-Sharp-Practice-L1-Introduction\Programming_C#_101\Programming_C#_101\obj\Debug\net8.0\ref\PLC#_C#_101.dll
